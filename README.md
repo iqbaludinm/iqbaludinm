@@ -5,7 +5,7 @@
 
 ## I'm a Student and Developer!
 
--  I’m currently studying in Muhammadiyah Malang University 🤣
+-  I’m currently studying in Muhammadiyah Malang University
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Can make good website and mobile 
 - ⚡ Fun fact: I really like to joke
