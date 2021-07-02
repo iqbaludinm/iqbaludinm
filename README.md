@@ -1,6 +1,5 @@
-### Hi there, I'm Iqbal 👋
-
-## I'm a Student and Developer!
+## Hi fellas! I'm Iqbal 👋
+### I'm a Student and Developer!
 
 -  I’m currently studying in Muhammadiyah Malang University
 - 🥅 2021 Goals: Can make good website and mobile 
