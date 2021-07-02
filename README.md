@@ -44,13 +44,13 @@
 <br />
 
 ---
-
+<!-- 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Iqbal's GitHub Stats" src="https://github-readme-stats.iqbaludinm.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
