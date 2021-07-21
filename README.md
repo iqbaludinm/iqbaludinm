@@ -2,7 +2,7 @@
 ### I'm a Student and Developer!
 
 -  I’m currently studying in University of Muhammadiyah Malang 
-- 🥅 2021 Goals: Can make good website and mobile 
+- 🥅 2021 Goals: Can make good website and mobile application 
 - ⚡ Fun fact: I really like to joke
 
 ### Connect with me:
