@@ -1,8 +1,8 @@
 ## Hi fellas! I'm Iqbal 👋
 ### I'm a Student and Developer 
- I'm a novice programmer with experience using C, Java, Laravel, Lumen, and Flutter. 
+ I'm a beginner programmer with experience using C, Java, Python, Laravel, Lumen, and Flutter. 
 -  :seedling: I’m currently learning JavaScript and continue to develop the language I have used
-- 🥅 2021 Goals: Can make good website and mobile application 
+- 🥅 2021 Goals: Can make good website and mobile application, can be a data scienctist in the future i think. (Aamiin)
 - ⚡ Fun fact: I really like to joke
 
 ### Connect with me:
