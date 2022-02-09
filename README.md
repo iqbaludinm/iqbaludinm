@@ -16,4 +16,4 @@
 [twitter]: https://twitter.com/baludinnn
 [youtube]: https://youtube.com/channel/UCoZP-Ol8Va6NUra2VrbgH4w
 [instagram]: https://instagram.com/iqbaludinm
-[linkedin]: https://linkedin.com/in/muhammad-iqbaludin-zaky-6b54b61b8
+[linkedin]: https://www.linkedin.com/in/iqbaludinm
