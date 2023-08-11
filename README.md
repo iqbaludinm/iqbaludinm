@@ -1,19 +1,10 @@
-## Hi fellas! I'm Iqbal 👋
-### I'm a Student and Developer!
+<a href="http://www.github.com/iqbaludinm">
+  <img align="right" alt="Profile Views" src="https://komarev.com/ghpvc/?username=iqbaludinm&style=flat-square&label=Profile+Views&color=0891b2" />
+</a> 
 
--  I’m currently studying in Muhammadiyah Malang University
-- 🥅 2021 Goals: Can make good website and mobile 
-- ⚡ Fun fact: I really like to joke
+## Howdy, fellow coder! 👋
 
-### Connect with me:
+<br>
 
-[<img align="left" alt="iqbal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="iqbal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="iqbal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iqbal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbaludinm&theme=default" alt="iqbaludinm" /></p>
 
-
-[twitter]: https://twitter.com/baludinnn
-[youtube]: https://youtube.com/channel/UCoZP-Ol8Va6NUra2VrbgH4w
-[instagram]: https://instagram.com/iqbaludinm
-[linkedin]: https://linkedin.com/in/muhammad-iqbaludin-zaky-6b54b61b8
